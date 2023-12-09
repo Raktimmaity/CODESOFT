@@ -1,0 +1,12 @@
+@media (max-width: 538px) {
+    .btns{
+        flex-direction: row-reverse;
+    }
+    h6{
+        top: -185px;
+        font-size: 15px;
+    }
+    .display #screen{
+        font-size: 25px;
+    }
+}
